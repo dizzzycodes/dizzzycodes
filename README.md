@@ -1,4 +1,1 @@
-### Hey, it's me.. deviationsz
-
-- Currently working on Orion
-- Contact me on Discord
+<img src="https://discord.c99.nl/widget/theme-4/835963773717970964.png" alt="My Discord Banner">
