@@ -2,9 +2,6 @@
 <a href="https://twitter.com/deviationsz">
   <img align="left" alt="My Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/pdc8leaku0wdaodhb5la1a730?si=94ad9322e5e44b16">
-  <img align="left" alt="My Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <a href="https://discord.gg/ceYMa4J7Cb">
         <img src="https://img.shields.io/discord/932076196110405632?logo=discord"
