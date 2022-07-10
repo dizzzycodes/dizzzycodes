@@ -8,7 +8,7 @@
             alt="chat on Discord"></a>
 
 <br />
-hey. i'm kai, a self-taught 13 year old developer from boston.<br>
+hey. i'm kai, a self-taught 14 year old developer from boston.<br>
 - 💼 any freelance work? contact me on discord. :)<br>
 - 💬 ask me about anything, i am happy to help<br>
 <br>
