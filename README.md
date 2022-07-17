@@ -1,13 +1,4 @@
 ### sup <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/deviationsz">
-  <img align="left" alt="My Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://discord.gg/ceYMa4J7Cb">
-        <img src="https://img.shields.io/discord/932076196110405632?logo=discord"
-            alt="chat on Discord"></a>
-
-<br />
 hey. i'm kai, a self-taught 14 year old developer from boston.<br>
 - 💼 any freelance work? contact me on discord :)<br>
 - 💬 ask me about anything, i am happy to help<br>
